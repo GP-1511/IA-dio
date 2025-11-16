@@ -24,8 +24,7 @@ o formato do roteiro deve ser
 [CURIOSIDADE 2]
 [FINALIZAÇÃO]
 
-- {REGRAS}
-
+{REGRAS}
 - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
 - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
 - no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
@@ -34,6 +33,6 @@ o formato do roteiro deve ser
 - O podcast vai ser apresentado somente por uma pessoa, chamada Gabi
 - O podcast deve ser curto
 
- - {REGRAS NEGATIVAS}
+  {REGRAS NEGATIVAS}
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
